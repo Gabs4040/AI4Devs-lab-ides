@@ -3,7 +3,7 @@ import './App.css';
 import AddCandidateForm from './components/AddCandidateForm';
 import CandidateTable from './components/CandidateTable';
 
-// Import or define the Candidate interface
+// Import or define the Candidate interface to upload to the database
 interface Education {
   degree: string;
 }
